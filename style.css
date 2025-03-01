@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('event-bg.jpg') no-repeat center center/cover;
+    text-align: center;
+    color: white;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 30px;
+    margin: 50px auto;
+    width: 50%;
+    border-radius: 10px;
+}
+
+h1, h2 {
+    margin-bottom: 10px;
+}
+
+.rsvp-btn {
+    background: #ff4c4c;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.rsvp-btn:hover {
+    background: #d42d2d;
+}
+
+.rsvp-btn {
+    background: #ff4c4c;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.rsvp-btn:hover {
+    background: #d42d2d;
+}
